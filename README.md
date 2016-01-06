@@ -10,7 +10,5 @@ to the appropriate GitHub repository:
 - database: https://github.com/deis/postgres
 - etcd: https://github.com/deis/etcd
 - helm: https://github.com/helm/helm
-- minio: https://github.com/deis/minio
-- registry: https://github.com/deis/registry
 - router: https://github.com/deis/router
 - workflow: https://github.com/deis/workflow
